@@ -88,7 +88,6 @@ No encryption or hashing is used for password security.
 📄 License
 This project is licensed under the MIT License.
 
-sql
-Copy
-Edit
 MIT License
+
+Copyright (c) 2025 [jcodes101]
