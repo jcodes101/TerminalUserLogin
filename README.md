@@ -84,3 +84,11 @@ This project is intended for educational purposes only.
 Passwords are stored in plain text — do not use real credentials.
 
 No encryption or hashing is used for password security.
+
+📄 License
+This project is licensed under the MIT License.
+
+sql
+Copy
+Edit
+MIT License
